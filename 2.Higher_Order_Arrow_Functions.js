@@ -6,11 +6,11 @@
 
 // compute the square of only the positive integers in the array above and store the new array in the variable squaredIntegers
 
-// Solution #1 
+/********  Solution #1  **************************************/
 
  const squareList = (arr) => arr.map(num => num > 0 && Math.floor(num) === num && Math.pow(num,2) ).filter(num => num!=false);
 
-// Solution #2 
+/********  Solution #2  **************************************/
 
 const squareList = (arr) => {
   "use strict";
