@@ -33,5 +33,6 @@ findLongestWordLength("May the force be with you"); // return 5
     ...and so on   */
     
 
+
 // Retrieved from https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string/
 
