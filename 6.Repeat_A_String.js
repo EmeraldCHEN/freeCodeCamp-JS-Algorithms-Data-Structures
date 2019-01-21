@@ -62,6 +62,7 @@ function repeatStringTimes(str, num) {
 }
 
 
+
 /*
 Retrieved from
 https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string/
