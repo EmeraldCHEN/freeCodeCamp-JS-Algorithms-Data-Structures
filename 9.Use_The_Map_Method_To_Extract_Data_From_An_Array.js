@@ -130,6 +130,7 @@ var rating2 = [];
 rating2 = watchList.map( (item) => ({"title":item["Title"],  "rating": item["imdbRating"]})); 
 
 
+
 // Retrieved from
 // https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array/
 
