@@ -132,3 +132,4 @@ rating2 = watchList.map( (item) => ({"title":item["Title"],  "rating": item["imd
 
 // Retrieved from
 // https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array/
+
