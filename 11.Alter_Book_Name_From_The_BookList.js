@@ -42,4 +42,5 @@ function remove_(bookList, bookName) {
 }
 
 
+
 // Retrieved from https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/functional-programming/refactor-global-variables-out-of-functions/
