@@ -1,7 +1,6 @@
 /* Instructions: Reduce the length of the string or truncate it if it is longer than the given maximum lengths specified and add ... to the end. 
-   If it is not that long then we keep it as is.   
-   The code is to runcate a string (first argument) if it is longer than the given maximum string length (second argument) and return the truncated string with a ... ending
-*/
+   If it is not that long then we keep it as is.    */
+  
 
 /*************  Solution #1 using the join() method  **************************/
 
