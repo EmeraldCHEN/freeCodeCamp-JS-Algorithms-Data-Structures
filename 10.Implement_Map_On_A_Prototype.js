@@ -22,7 +22,7 @@ console.log(new_s2); // Output: [2300, 6500, 9800, 500]
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Array.prototype.aMap = function (callback) {
+Array.prototype.myMap = function (callback) {
   var newArray = [];
 
   this.forEach(function (element) {
