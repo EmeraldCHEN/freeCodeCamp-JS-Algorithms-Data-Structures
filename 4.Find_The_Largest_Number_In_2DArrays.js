@@ -1,8 +1,6 @@
-/* Two solutions to find the largest number in 2D arrays and return an array consisting of the largest number from each provided sub-array.
+// Two solutions to find the largest number in 2D arrays and return an array consisting of the largest number from each provided sub-array.
 
-Solution #1 using a for loop & #2 using the combination of the map() method & the reduce() method  */
-
-// Solution #1 using for loops 
+/*****************  Solution #1 using for loops  ******************************/
 function largestOfFour1(arr) {
     let subArrayMax = [];
     let max;
@@ -18,7 +16,7 @@ function largestOfFour1(arr) {
 largestOfFour1([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]); // return [5, 27, 39, 1001]
 
 
-// Solution #2 using .map() & .reduce() & ternary operator
+/*****************  Solution #2 using .map() & .reduce() & ternary operator  ******************************/
 
 function largestOfFour2(arr) {
     return arr.map(group => group.reduce((prev, current) => (current > prev) ? current : prev));
