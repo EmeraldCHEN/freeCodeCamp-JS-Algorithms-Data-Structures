@@ -50,4 +50,3 @@ console.log("Shelly's contact number is " + lookUpProfile("Shelly", "number") + 
 // Retrieved from https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup/
 
 
-
