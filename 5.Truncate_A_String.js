@@ -34,3 +34,4 @@ console.log(new_s); // A...
 
 
 // Retrieved from  https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string/
+
