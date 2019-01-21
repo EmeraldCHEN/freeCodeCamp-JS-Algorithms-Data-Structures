@@ -2,7 +2,7 @@
 
     Here are a couple of regex solutions retrieved from Free Code Camp.  */
     
-    // Simple password checkers using lookaheads 
+// Simple password checkers using lookaheads 
 
 let password = "abc123";
 
