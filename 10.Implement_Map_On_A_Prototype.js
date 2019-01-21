@@ -41,3 +41,4 @@ console.log(new_s);
 
 
 // Retrieved from https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/functional-programming/implement-map-on-a-prototype/
+
