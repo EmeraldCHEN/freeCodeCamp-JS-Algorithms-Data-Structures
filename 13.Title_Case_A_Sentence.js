@@ -49,6 +49,5 @@ function titleCase2(str) {
 console.log(titleCase2("read search ask")); // Output: "Read Search Ask"
 
 
-
 // Retrieved from
 // https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence/
