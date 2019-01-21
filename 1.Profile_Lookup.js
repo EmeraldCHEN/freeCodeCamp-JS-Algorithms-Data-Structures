@@ -51,4 +51,3 @@ console.log("Shelly's contact number is " + lookUpProfile("Shelly", "number") + 
 
 
 
-
