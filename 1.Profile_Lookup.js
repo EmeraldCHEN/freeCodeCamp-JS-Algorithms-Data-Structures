@@ -41,10 +41,11 @@ function lookUpProfile(name, prop){
 	return "No such contact."; 
 }
 
-console.log("Akira likes " + lookUpProfile("Akira", "likes") + ".");
-console.log("Kristian's last name is " + lookUpProfile("Kristian", "lastName") + ".");
-console.log("Sherlock's contact number is " + lookUpProfile("Sherlock", "number") + ".");
-console.log("Shelly's contact number is " + lookUpProfile("Shelly", "number") + ".");
+
+lookUpProfile("Akira", "address"); // return "No such property"
+lookUpProfile("Kristian", "lastName"); // return "Vos"
+lookUpProfile("Sherlock", "likes"); // return ["Intriguing Cases", "Violin"]
+lookUpProfile("Bob", "potato");  // return "No such contact"
 
 
 // Retrieved from https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup/
