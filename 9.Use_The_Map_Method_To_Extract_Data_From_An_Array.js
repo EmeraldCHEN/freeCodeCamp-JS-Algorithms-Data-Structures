@@ -2,7 +2,7 @@
 
    It creates a new array (without changing the original one) after applying a callback function to every element.  */
    
-  // the global variable
+// the global variable
 var watchList = [
                  {  
                    "Title": "Inception",
