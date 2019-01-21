@@ -38,3 +38,4 @@ console.log(result); // Output: [2,4]
 
 
 // Received from https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers/
+
